@@ -15,7 +15,7 @@ body {
   }
   ::-moz-selection {
     color: #211830;
-    background-color: #fff;
+    background-color: #FFFFFF;
   }
   textarea {
     left: -1000px;
