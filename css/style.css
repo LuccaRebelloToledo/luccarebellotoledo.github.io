@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #FF0000;
-    content: "quest@portifolio:~$";
+    content: "quest@portfolio:~$";
   }
   #liner.password::before {
     content: "Password:";
