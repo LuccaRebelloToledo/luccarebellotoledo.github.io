@@ -7,15 +7,14 @@ var email = 'mailto:luccarebtoledo@gmail.com';
 whois = [
   "<br>",
   "Olá, meu nome é Lucca",
-  "Tenho 19 anos e nasci e resido na cidade de Pouso Alegre",
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
+  "Tenho 19 anos, nasci e resido na cidade de Pouso Alegre",
+  "Atualmente sou acadêmico do curso Sistemas de Informação na Universidade do Vale do Sapucaí!",
+  "Atualmente sou estagiário em programação também na Universidade do Vale do Sapucaí!",
+  "A cada dia aprendo mais sobre trabalho em equipe, comunicação e em si o desenvolvimento.",
+  "As tecnologias que tenho conhecimento básico, são: Java, Javascript, HTML e CSS.",
+  "Sou uma pessoa tranquila, gosto muito de aprender e estou sempre aberto para sugestões e críticas construtivas",
+  "Uma pessoa de fácil convívio, um pouco tímido até pegar certa intimidade.",
+  "Bom, este sou eu, até mais :)",
   "<br>"
 ];
 

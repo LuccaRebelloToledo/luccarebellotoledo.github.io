@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("quest@portifolio:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("quest@portfolio:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -89,7 +89,7 @@ function commander(cmd) {
       loopLines(whoami, "color2 margin", 80);
       break;
     case "sudo":
-      addLine("root@portifolio:~$", "color2", 80);
+      addLine("root@portfolio:~$", "color2", 80);
       setTimeout(function() {
         window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
       }, 1000); 
