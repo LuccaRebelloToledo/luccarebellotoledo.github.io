@@ -85,6 +85,9 @@ function commander(cmd) {
     case "whois":
       loopLines(whois, "color2 margin", 80);
       break;
+      case "skills":
+        loopLines(skills, "color2 margin", 80);
+      break;
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
