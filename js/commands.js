@@ -53,7 +53,8 @@ projects = [
   "<br>",
   "App Calculadora JS - https://github.com/LuccaRebelloToledo/App-Calculadora-JS",
   "App DespesasPessoais - https://github.com/LuccaRebelloToledo/App-Despesas-Pessoais",
-  "Apenas 2 por minha parte, outros projetos são confidenciais.",
+  "App Mata Mosquito JS - https://github.com/LuccaRebelloToledo/App-Mata-Mosquito",
+  "Apenas 3 por minha parte, outros projetos são confidenciais.",
   "<br>"
 ];
 
