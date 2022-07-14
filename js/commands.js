@@ -2,6 +2,9 @@ var password = "luccatoledo";
 var linkedin = "https://www.linkedin.com/in/lucca-toledo/";
 var instagram = "https://www.instagram.com/luccareb/";
 var github = "https://github.com/luccarebellotoledo/";
+var calculadora = "https://github.com/LuccaRebelloToledo/App-Calculadora-JS/";
+var despesasPessoais = "https://github.com/LuccaRebelloToledo/App-Despesas-Pessoais";
+var mataMosquito = "https://github.com/LuccaRebelloToledo/App-Mata-Mosquito";
 var email = 'mailto:luccarebtoledo@gmail.com';
 
 whois = [
@@ -51,9 +54,10 @@ secret = [
 
 projects = [
   "<br>",
-  "App Calculadora JS - https://github.com/LuccaRebelloToledo/App-Calculadora-JS",
-  "App DespesasPessoais - https://github.com/LuccaRebelloToledo/App-Despesas-Pessoais",
-  "App Mata Mosquito JS - https://github.com/LuccaRebelloToledo/App-Mata-Mosquito",
+  '<span class="command">App Calculadora JS</span>       <a href="' + calculadora + '" target="_blank">github/App-Calculadora-JS' + "</a>",
+  '<span class="command">App Despesas Pessoais</span>    <a href="' + despesasPessoais + '" target="_blank">github/App-Despesas-Pessoais' + "</a>",
+  '<span class="command">App Mata Mosquito JS</span>     <a href="' + mataMosquito + '" target="_blank">github/App-Mata-Mosquito' + "</a>",
+  "<br>",
   "Apenas 3 por minha parte, outros projetos são confidenciais.",
   "<br>"
 ];
